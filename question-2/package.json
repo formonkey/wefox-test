@@ -1,0 +1,11 @@
+{
+    "name": "palindrome-sentences",
+    "version": "1.0.0",
+    "description": "Create a program to recognize palindrome sentences (e.g. Race Car)",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "imartin",
+    "license": "ISC"
+}
