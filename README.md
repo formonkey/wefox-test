@@ -1,10 +1,21 @@
+## Question 2
+
+###### Description
+
+In the second question, it was requested that a program that verify whether a phrase or a set of words were of the palindrome type be used. 
+As an extra has been added that you can pass the text by command parameter, this way it would be something more scalable. 
+A polyandrome text is a set of words that regardless of the meaning in which it is read will always read the same
+
+###### Run
+
+`node index.js` or `npm run start`
+
 ## Question 3
 
-##### Description
+###### Description
 
 In question 3, it was requested to perform automated tests with protractor and selenium. 
 To complete this I have also decided to implement Gherkin and cucumber as visual administrator of the tests performed.
-
 
 ###### Run
 
@@ -33,3 +44,4 @@ If we follow the link that tells us we will find some reports made with cucumber
 
 
 Here we can visually see each test performed and the state in which it was executed, in case of an error it can also be viewed in more detail from here
+
